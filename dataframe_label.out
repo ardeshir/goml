@@ -1,0 +1,17 @@
+Gota will format the dataframe
+
+[10x5] DataFrame
+
+    lab1     lab2     lab3     lab4     species    
+ 0: 5.100000 3.500000 1.400000 0.200000 Iris-setosa
+ 1: 4.900000 3.000000 1.400000 0.200000 Iris-setosa
+ 2: 4.700000 3.200000 1.300000 0.200000 Iris-setosa
+ 3: 4.600000 3.100000 1.500000 0.200000 Iris-setosa
+ 4: 5.000000 3.600000 1.400000 0.200000 Iris-setosa
+ 5: 5.400000 3.900000 1.700000 0.400000 Iris-setosa
+ 6: 4.600000 3.400000 1.400000 0.300000 Iris-setosa
+ 7: 5.000000 3.400000 1.500000 0.200000 Iris-setosa
+ 8: 4.400000 2.900000 1.400000 0.200000 Iris-setosa
+ 9: 4.900000 3.100000 1.500000 0.100000 Iris-setosa
+    <float>  <float>  <float>  <float>  <string>   
+
